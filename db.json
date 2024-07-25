@@ -3,25 +3,25 @@
         {
             "category":"Reaction",
             "score":80,
-            "icon":"",
+            "icon":"fa-cloud-bolt",
             "A":20
         },
         {
             "category":"Memory",
             "score":92,
-            "icon":"",
+            "icon":"fa-memory",
             "A":60
         },
         {
             "category":"Verbal",
             "score":61,
-            "icon":"",
+            "icon":"fa-message",
             "A":80
         },
         {
             "category":"Visual",
             "score":72,
-            "icon":"",
+            "icon":"fa-eye",
             "A":100
         }
     ]
