@@ -1,0 +1,32 @@
+{
+    "scores":[
+        {
+            "category":"Reaction",
+            "score":80,
+            "icon":"",
+            "A":20,
+            "B":40
+        },
+        {
+            "category":"Memory",
+            "score":92,
+            "icon":"",
+            "A":60,
+            "B":90
+        },
+        {
+            "category":"Verbal",
+            "score":61,
+            "icon":"",
+            "A":80,
+            "B":120
+        },
+        {
+            "category":"Visual",
+            "score":72,
+            "icon":"",
+            "A":100,
+            "B":140
+        }
+    ]
+}
