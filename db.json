@@ -4,29 +4,25 @@
             "category":"Reaction",
             "score":80,
             "icon":"",
-            "A":20,
-            "B":40
+            "A":20
         },
         {
             "category":"Memory",
             "score":92,
             "icon":"",
-            "A":60,
-            "B":90
+            "A":60
         },
         {
             "category":"Verbal",
             "score":61,
             "icon":"",
-            "A":80,
-            "B":120
+            "A":80
         },
         {
             "category":"Visual",
             "score":72,
             "icon":"",
-            "A":100,
-            "B":140
+            "A":100
         }
     ]
 }
